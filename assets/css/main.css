@@ -3081,7 +3081,7 @@ table.alt tbody tr td {
   }
 }
 
-@media screen and (max-width: 736px) {
+@media screen and (max-width: 840px) {
   .statistics {
     display: block;
     width: 20em;
