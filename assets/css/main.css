@@ -3230,7 +3230,7 @@ table.alt tbody tr td {
   font-size: 3.25em;
 }
 
-#header.alt > * {
+/* #header.alt > * {
   -moz-transition: opacity 3s ease;
   -webkit-transition: opacity 3s ease;
   -ms-transition: opacity 3s ease;
@@ -3240,7 +3240,7 @@ table.alt tbody tr td {
   -ms-transition-delay: 0.5s;
   transition-delay: 0.5s;
   opacity: 1;
-}
+} */
 
 #header.alt .logo {
   -moz-transition: opacity 1.25s ease, -moz-transform 0.5s ease;
